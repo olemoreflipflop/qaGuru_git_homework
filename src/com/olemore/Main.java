@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Hello, QA.guru!!!");
         System.out.println("Hello, slow branch");
     }
+    
+    public static void another() {
+        System.out.println("Another mthd");
+    }
 }
