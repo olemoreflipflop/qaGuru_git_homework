@@ -5,4 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, QA.guru!!!");
     }
+    
+    public static void another() {
+        System.out.println("Another mthd");
 }
